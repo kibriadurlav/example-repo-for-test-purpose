@@ -1,1 +1,1 @@
-# example-repo-for-test-purpose
+# Example repo for test purpose
